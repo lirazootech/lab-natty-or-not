@@ -27,7 +27,7 @@ Hospedagem: Os códigos desenvolvidos ao longo do livro foram armazenados no rep
 ## 🚀 Resultados
 O e-book "Javandor - Conceitos Básicos de Programação em JAVA" se destaca por sua didática fluída e divertida, além da sua utilidade. A combinação de tecnologias como JAVA, DALL-E, CANVA e o eBook Creator  possibilitou a criação de um material riquíssimo e valioso para quem busca potencializar o seu aprendizado e reter informações mais rapidamente sem perder qualidade de informação e profundidade de conteúdo.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O Javandor demonstra o potencial da tecnologia para facilitar o processo criativo e a produção de produtos de alta qualidade, assim como acelera o acesso à informação e otimiza o processo de aprendizado. Seu design amigável e todo conteúdo prático o tornam uma ferramenta útil para estudantes, profissionais e qualquer pessoa que busca aproveitar ao máximo o conhecimento em JAVA.
 
 ## Certificado
