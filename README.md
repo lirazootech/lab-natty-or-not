@@ -1,6 +1,6 @@
 # 📚 E-book: Conceitos Básicos de Programação em JAVA
 
-| [![bgdio](img/bgdio.png)](https://www.dio.me/users/thayslirazootecnista) |
+| <a href="https://www.dio.me/users/thayslirazootecnista"><img src="img/bgdio.png" alt="bgdio" width="200"></a> |
 |:--:|
 | O e-book "Javandor - Conceitos Básicos de Programação em JAVA" inclui a linguagem JAVA no universo de Hogwarts, trazendo ensinamentos complexos de forma divertida e didática para facilitar o aprendizado daqueles que estão dando seus primeiros passos na programação e é apaixonado por JAVA. Apesar de lúdico o Javandor não é nada superficial quando o assunto é conteúdo, a abordagem dos principais principais conceitos da sintaxe básica da linguagem é criteriosa, além da aplicação prática com exemplos em formato de código, onde a lógica de programção é aplicada e vivenciada de maneira descontraída.
  Sejam bem vindos a Casa Javandor, e que a magia do código esteja com vocês! |
@@ -34,6 +34,7 @@ O Javandor demonstra o potencial da tecnologia para facilitar o processo criativ
 
 - Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3
 
-[![Certificado](img/Certificado.JPG)](https://www.dio.me/certificate/SSBW0QQJ)
+<a href="https://www.dio.me/certificate/SSBW0QQJ"><img src="img/Certificado.JPG" alt="Certificado" width="200"></a>
+
 
 Copyright © 2024 <a href="" target="_blank">lirazootech</a> .
